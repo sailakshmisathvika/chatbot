@@ -33,7 +33,7 @@ This is a simple chatbot built using Streamlit and the OpenAI API. The chatbot u
 
 **Author**
 
-Sathvika Saila
+SaiLakshmiSathvika Suraboina
 
 **License**
 
